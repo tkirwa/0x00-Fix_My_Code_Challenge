@@ -1,9 +1,7 @@
 #!/usr/bin/python3
 """ FizzBuzz
-    Change of logic if (i % 3) == 0 and (i % 5) == 0:
 """
 import sys
-
 
 def fizzbuzz(n):
     """
@@ -30,7 +28,7 @@ def fizzbuzz(n):
 
 
 if __name__ == '__main__':
-    if len(sys.argv) <= 1:
+    if len(sys.argv) < 2:
         print("Missing number")
         print("Usage: ./0-fizzbuzz.py <number>")
         print("Example: ./0-fizzbuzz.py 89")
