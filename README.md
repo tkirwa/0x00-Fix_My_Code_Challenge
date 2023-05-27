@@ -2,40 +2,6 @@
 0x00. Fix my code
 =================
 
-Debugging
-
-*   By: Guillaume
-*   Weight: 1
-*   Project will start May 15, 2023 6:00 AM, must end by May 29, 2023 6:00 AM
-*   Checker was released at May 18, 2023 6:00 PM
-*   An auto review will be launched at the deadline
-
-Background Context
-------------------
-
-`Fix my code` is a new type of project, where we’ll jump into an existing code base and fix it!
-
-Sometimes you will know the language, sometimes not.
-
-Please download the repository [0x00-Fix\_My\_Code\_Challenge](/rltoken/rq-j1VNUKRTQoADfDRXJmg "0x00-Fix_My_Code_Challenge") and use it as initial files for all solutions.
-
-You should not recode everything, just fix it!
-
-**This project is NOT mandatory** at all. It is 100% optional. Doing any part of this project will add a project grade of over 100% to your average. Your score won’t get hurt if you don’t do it, but if your current average is greater than your score on this project, your average might go down. Have fun!
-
-Requirements
-------------
-
-### General
-
-*   Allowed editors: `vi`, `vim`, `emacs`
-*   All your files will be compiled on Ubuntu 20.04 LTS
-*   All your files should end with a new line
-*   A `README.md` file, at the root of the folder of the project is mandatory
-
-Tasks
------
-
 ### 0\. FizzBuzz
 
 #advanced
@@ -57,39 +23,6 @@ Something is going wrong….
 *   Directory: `0x00-challenge`
 *   File: `0-fizzbuzz.py`
 
-Done?! Help
-
-×
-
-#### Learners who are done with "0. FizzBuzz"
-
-Check your code
-
-×
-
-#### Correction of "0. FizzBuzz"
-
-Start a new test Close
-
-Requirement success
-
-Requirement fail
-
-Code success
-
-Code fail
-
-Efficiency success
-
-Efficiency fail
-
-Text answer success
-
-Text answer fail
-
-Skipped - Previous check failed
-
-Get a sandbox
 
 ### 1\. Print square
 
@@ -132,40 +65,6 @@ Something is going wrong….
 *   Directory: `0x00-challenge`
 *   File: `1-print_square.js`
 
-Done?! Help
-
-×
-
-#### Learners who are done with "1. Print square"
-
-Check your code
-
-×
-
-#### Correction of "1. Print square"
-
-Start a new test Close
-
-Requirement success
-
-Requirement fail
-
-Code success
-
-Code fail
-
-Efficiency success
-
-Efficiency fail
-
-Text answer success
-
-Text answer fail
-
-Skipped - Previous check failed
-
-Get a sandbox
-
 ### 2\. Sort
 
 #advanced
@@ -192,40 +91,6 @@ Something is going wrong….
 *   Directory: `0x00-challenge`
 *   File: `2-sort.rb`
 
-Done?! Help
-
-×
-
-#### Learners who are done with "2. Sort"
-
-Check your code
-
-×
-
-#### Correction of "2. Sort"
-
-Start a new test Close
-
-Requirement success
-
-Requirement fail
-
-Code success
-
-Code fail
-
-Efficiency success
-
-Efficiency fail
-
-Text answer success
-
-Text answer fail
-
-Skipped - Previous check failed
-
-Get a sandbox
-
 ### 3\. User password
 
 #advanced
@@ -248,39 +113,6 @@ My tests should not print any error…
 *   Directory: `0x00-challenge`
 *   File: `3-user.py`
 
-Done?! Help
-
-×
-
-#### Learners who are done with "3. User password"
-
-Check your code
-
-×
-
-#### Correction of "3. User password"
-
-Start a new test Close
-
-Requirement success
-
-Requirement fail
-
-Code success
-
-Code fail
-
-Efficiency success
-
-Efficiency fail
-
-Text answer success
-
-Text answer fail
-
-Skipped - Previous check failed
-
-Get a sandbox
 
 ### 4\. Double linked list
 
