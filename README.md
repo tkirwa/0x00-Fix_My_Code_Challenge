@@ -1,9 +1,6 @@
 ## 0x00. Fix my code
 0x00. Fix my code
 =================
-
-### 0\. FizzBuzz
-
 #advanced
 
 Please take a look at my implementation of FizzBuzz in Python: [source code](https://github.com/holbertonschool/Fix-my-code-0/blob/master/0-fizzbuzz.py "source code")
